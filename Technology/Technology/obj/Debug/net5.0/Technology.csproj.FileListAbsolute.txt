@@ -1,0 +1,16 @@
+D:\Development\Launchcode\C#\Chapter21Inheritance\Exercise21\Technology\Technology\bin\Debug\net5.0\Technology.exe
+D:\Development\Launchcode\C#\Chapter21Inheritance\Exercise21\Technology\Technology\bin\Debug\net5.0\Technology.deps.json
+D:\Development\Launchcode\C#\Chapter21Inheritance\Exercise21\Technology\Technology\bin\Debug\net5.0\Technology.runtimeconfig.json
+D:\Development\Launchcode\C#\Chapter21Inheritance\Exercise21\Technology\Technology\bin\Debug\net5.0\Technology.runtimeconfig.dev.json
+D:\Development\Launchcode\C#\Chapter21Inheritance\Exercise21\Technology\Technology\bin\Debug\net5.0\Technology.dll
+D:\Development\Launchcode\C#\Chapter21Inheritance\Exercise21\Technology\Technology\bin\Debug\net5.0\ref\Technology.dll
+D:\Development\Launchcode\C#\Chapter21Inheritance\Exercise21\Technology\Technology\bin\Debug\net5.0\Technology.pdb
+D:\Development\Launchcode\C#\Chapter21Inheritance\Exercise21\Technology\Technology\obj\Debug\net5.0\Technology.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Launchcode\C#\Chapter21Inheritance\Exercise21\Technology\Technology\obj\Debug\net5.0\Technology.AssemblyInfoInputs.cache
+D:\Development\Launchcode\C#\Chapter21Inheritance\Exercise21\Technology\Technology\obj\Debug\net5.0\Technology.AssemblyInfo.cs
+D:\Development\Launchcode\C#\Chapter21Inheritance\Exercise21\Technology\Technology\obj\Debug\net5.0\Technology.csproj.CoreCompileInputs.cache
+D:\Development\Launchcode\C#\Chapter21Inheritance\Exercise21\Technology\Technology\obj\Debug\net5.0\Technology.dll
+D:\Development\Launchcode\C#\Chapter21Inheritance\Exercise21\Technology\Technology\obj\Debug\net5.0\ref\Technology.dll
+D:\Development\Launchcode\C#\Chapter21Inheritance\Exercise21\Technology\Technology\obj\Debug\net5.0\Technology.pdb
+D:\Development\Launchcode\C#\Chapter21Inheritance\Exercise21\Technology\Technology\obj\Debug\net5.0\Technology.genruntimeconfig.cache
+D:\Development\Launchcode\C#\Chapter21Inheritance\Exercise21\Technology\Technology\obj\Debug\net5.0\Technology.csproj.AssemblyReference.cache
